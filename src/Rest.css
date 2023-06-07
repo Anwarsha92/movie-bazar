@@ -1,0 +1,23 @@
+
+#image{
+    transition: 1s;
+}
+
+#image:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+#card{
+overflow: hidden;
+}
+#link{
+    text-decoration: none;
+}
+
+
+.caroselimg{
+    aspect-ratio: 3/1;
+    
+
+} 
